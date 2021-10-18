@@ -1,7 +1,3 @@
-function boasVindas() {
-    alert("Bem Vindo ao Jogo da Velha!")
-}
-
 const casas = document.getElementsByClassName('botao');
 const botaoR = document.getElementById('botaoR');
 const tela_jogador = document.getElementById('jogador');//nome do jog. na tela
